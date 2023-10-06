@@ -1,0 +1,5 @@
+let namaPendaftar = ["John Doe", "Jane Smith", "Bob Johnson","Alice Williams", "Ahmad Rahman", "Maya Sari", "Budi Santoso", "Dian Anggraeni", "Eva Anderson", "Daniel Lee", "Sara Miller", "Michael Brown", "Olivia Taylor", "David Wilson", "Sophia Clark", "William Turner", "Emma White", "James Harris", "Linda Davis", "Brian Evans", "Karen Moore", "Steven Carter", "Amanda King", "Christopher Reed", "Emily Hall", "Thomas Allen", "Nina Garcia", "Patrick Martinez", "Julia Nelson", "Richard Brooks", "Grace Baker", "Alex Murphy", "Michelle Parker", "Ryan Cooper", "Hannah Roberts", "Eric Foster", "Jessica Simmons", "Kevin Wright", "Lauren Foster", "Brandon Hill", "Sophie Hayes", "Tyler Richardson", "Mia Cooper", "Ethan Ward", "Chloe Perry", "Justin Turner", "Sophia Morris", "Daniel Cooper", "Melissa Hayes"];
+
+for(let i=1; i < namaPendaftar.length; i++){
+    console.log(i + ". " + namaPendaftar[i]);
+}
